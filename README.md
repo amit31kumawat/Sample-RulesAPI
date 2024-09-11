@@ -308,6 +308,7 @@ Rules containing an `EveryAction` can be used to setup automations that execute 
 		{
 			"every": {
 				"specific": {
+					"timeZoneId": "UTC",
 					"reference": "Noon",
 					"offset": {
 						"value": {
